@@ -4,3 +4,8 @@ Cebola
 Tomate
 Alface
 Brócolis
+------------------
+Chocolate
+Batata Doce
+Churros
+Brigadeiro
