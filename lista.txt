@@ -9,3 +9,7 @@ Chocolate
 Batata Doce
 Churros
 Brigadeiro
+-----------------
+Risolis
+Kibe
+Coxinha
